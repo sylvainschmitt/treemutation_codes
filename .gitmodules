@@ -1,0 +1,18 @@
+[submodule "detectMutations_angela"]
+	path = detectMutations_angela
+	url = git@github.com:sylvainschmitt/detectMutations.git
+	branch = angela
+[submodule "detectMutations_sixto"]
+	path = detectMutations_sixto
+	url = git@github.com:sylvainschmitt/detectMutations.git
+	branch = sixto
+[submodule "detectMutations_fruits"]
+	path = detectMutations_fruits
+	url = git@github.com:sylvainschmitt/detectMutations.git
+	branch = fruits
+[submodule "treemutation"]
+	path = treemutation
+	url = git@github.com:sylvainschmitt/treemutation.git
+[submodule "genomeAnnotation"]
+	path = genomeAnnotation
+	url = git@github.com:sylvainschmitt/genomeAnnotation.git
