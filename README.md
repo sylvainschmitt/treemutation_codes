@@ -5,7 +5,7 @@
 * [genomeAnnotation](https://github.com/sylvainschmitt/genomeAnnotation/tree/c0493f536ab7d6915d9eed68a4288dc98a34112d): singularity & snakemake workflow to annotate genomes transposable elements (TE) and genes.
 * [detectMutations - Angela](https://github.com/sylvainschmitt/detectMutations/tree/622498154103daccd6795b55362c1d88ca546303): singularity & snakemake workflow to detect mutation with Strelka2 in the *D. guianensis* tree.
 * [detectMutations - Sixto](https://github.com/sylvainschmitt/detectMutations/tree/797b07d0757d77347ad9eca11532dab87baa2922): singularity & snakemake workflow to detect mutation with Strelka2 in the *S. rubra tree*.
-* [detectMutations - fruits](https://github.com/sylvainschmitt/detectMutations/tree/252323eab5fbf994e09e11579338d462b2b5c707): singularity & snakemake workflow to detect mutation with GATK in the fruits of the *D. guianensis* and the *S. rubra tree* trees.
+* [detectMutations - fruits](https://github.com/sylvainschmitt/detectMutations/tree/252323eab5fbf994e09e11579338d462b2b5c707): singularity & snakemake workflow to detect mutation with GATK in the fruits of the *D. guianensis* and the *S. rubra* trees.
 * [treemutation](https://github.com/sylvainschmitt/treemutation/tree/fc6a2eeef7b2bb1d178ebfbf3a79652ca13fb9df): R code for all the project and manuscript analyses.
 
 ```
