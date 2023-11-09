@@ -1,5 +1,7 @@
 # Treemutation Codes
 
+[![DOI](https://zenodo.org/badge/715065570.svg)](https://zenodo.org/doi/10.5281/zenodo.10090429)
+
  This repository contain all codes of the TreeMutation project and the analyses of Schmitt *et al.,* (in prep) PNAS (*to update)*:
 
 * [genomeAnnotation](https://github.com/sylvainschmitt/genomeAnnotation/tree/c0493f536ab7d6915d9eed68a4288dc98a34112d): singularity & snakemake workflow to annotate genomes transposable elements (TE) and genes.
