@@ -2,7 +2,7 @@
 
 [![DOI](https://zenodo.org/badge/715065570.svg)](https://zenodo.org/doi/10.5281/zenodo.10090429)
 
- This repository contain all codes of the TreeMutation project and the analyses of Schmitt *et al.,* (in prep) PNAS (*to update)*:
+ This repository contain all codes of the TreeMutation project and the analyses of Schmitt, S., Heuret, P., Troispoux, V., Beraud, M., Cazal, J., Chancerel, É., ... & Tysklind, N. (2024). Low-frequency somatic mutations are heritable in tropical trees Dicorynia guianensis and Sextonia rubra. *Proceedings of the National Academy of Sciences, 121(10), e2313312121*. [10.1073/pnas.2313312121](https://www.pnas.org/doi/10.1073/pnas.2313312121):
 
 * [genomeAnnotation](https://github.com/sylvainschmitt/genomeAnnotation/tree/c0493f536ab7d6915d9eed68a4288dc98a34112d): singularity & snakemake workflow to annotate genomes transposable elements (TE) and genes.
 * [detectMutations - Angela](https://github.com/sylvainschmitt/detectMutations/tree/622498154103daccd6795b55362c1d88ca546303): singularity & snakemake workflow to detect mutation with Strelka2 in the *D. guianensis* tree.
